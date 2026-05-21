@@ -10,7 +10,8 @@ This project focuses on building a live, interactive dashboard that shows import
 - Using Python, write a script that automatically fetches this data from the API and processes it for analysis. This ensures that the data is fresh and accurate without manual downloads or updates.
 - Then connect Python script directly to Power BI, creating a live data connection. Because of this live integration, the Power BI dashboard refreshes automatically whenever new data is available. Users do not need to perform any manual steps to update the dashboard, making it highly efficient and reliable for ongoing monitoring. The dashboard provides easy-to-understand visuals like charts and graphs, which help users explore trends and patterns across different countries and regions.
 
-## Analysis
+
+## Analysis-  Power BI Dashboard
 
 Once the connection is created, we created a dashboard that address the following questions:
 
