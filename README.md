@@ -1,11 +1,11 @@
 # Live API Data Integration: Real-Time Dashboards with Python & Power BI
 
 
-## Project Objective
+## Project Overview
 
 This project focuses on building a live, interactive dashboard that shows important global statistics such as health, education, employment, and other key indicators. The data comes from a public API that is regularly updated with the latest information. 
 
-## Objective
+## Project Objective
 
 - Using Python, write a script that automatically fetches this data from the API and processes it for analysis. This ensures that the data is fresh and accurate without manual downloads or updates.
 - Then connect Python script directly to Power BI, creating a live data connection. Because of this live integration, the Power BI dashboard refreshes automatically whenever new data is available. Users do not need to perform any manual steps to update the dashboard, making it highly efficient and reliable for ongoing monitoring. The dashboard provides easy-to-understand visuals like charts and graphs, which help users explore trends and patterns across different countries and regions.
